@@ -56,6 +56,7 @@ def generate_recommendations(user_data):
     
     return recommendations
 
+```
 
 ## Data sources and AI methods
 
