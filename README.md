@@ -60,7 +60,7 @@ def generate_recommendations(user_data):
 
 ## Data sources and AI methods
 
-![Data sources and AI methods]([https://github.com/badaa002/PHRS/blob/main/DALL%C2%B7E%202024-11-29%2019.09.32%20-%20An%20infographic%20showing%20personalized%20fitness%20recommendations%20for%20a%20user.%20It%20should%20feature%20a%20section%20with%20a%20person%20running%20on%20a%20treadmill%20(representing.webp](https://github.com/badaa002/PHRS/blob/main/DALL%C2%B7E%202024-11-29%2019.09.32%20-%20An%20infographic%20showing%20personalized%20fitness%20recommendations%20for%20a%20user.%20It%20should%20feature%20a%20section%20with%20a%20person%20running%20on%20a%20treadmill.webp))
+![Data sources and AI methods](https://github.com/badaa002/PHRS/blob/main/DALL%C2%B7E%202024-11-29%2019.09.32%20-%20An%20infographic%20showing%20personalized%20fitness%20recommendations%20for%20a%20user.%20It%20should%20feature%20a%20section%20with%20a%20person%20running%20on%20a%20treadmill.webp)
 
 
 The system uses health and fitness data from publicly available datasets to provide personalized advice. Some of the data sources include:
