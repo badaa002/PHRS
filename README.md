@@ -34,7 +34,7 @@ The system works by having users input basic personal information, such as their
 - **People with specific health needs:** Customized advice for managing conditions like diabetes, heart disease, etc.
 - **Fitness enthusiasts:** Those who want to optimize their performance or try new routines.
 
-![Personalized Health Recommendations]([https://example.com/health_recommendations.png](https://raw.githubusercontent.com/badaa002/PHRS/refs/heads/main/DALL%C2%B7E%202024-11-29%2019.05.11%20-%20A%20visually%20appealing%20infographic%20showing%20personalized%20health%20recommendations%2C%20with%20icons%20for%20exercise%2C%20diet%2C%20and%20wellness%20tips.%20The%20infographic%20should.webp))
+![Personalized Health Recommendations](https://github.com/badaa002/PHRS/blob/main/DALL%C2%B7E%202024-11-29%2019.05.11%20-%20A%20visually%20appealing%20infographic%20showing%20personalized%20health%20recommendations%2C%20with%20icons%20for%20exercise%2C%20diet%2C%20and%20wellness%20tips.%20The%20infographic%20should.webp)
 
 Example of how the recommendation system works:
 ```python
